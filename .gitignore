@@ -1,0 +1,17 @@
+.idea
+*.pyc
+*.pyo
+env
+env*
+dist
+*.egg
+*.egg-info
+_mailinglist
+.tox
+.settings
+.classpath
+.project
+.springBeans
+target
+.class
+classes
